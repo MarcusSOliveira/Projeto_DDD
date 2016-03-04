@@ -1,0 +1,14 @@
+C:\Users\COTI\Desktop\___Aula_01.03.16\Aula05\Projeto.Domain\bin\Debug\Projeto.Domain.dll
+C:\Users\COTI\Desktop\___Aula_01.03.16\Aula05\Projeto.Domain\bin\Debug\Projeto.Domain.pdb
+C:\Users\COTI\Desktop\___Aula_01.03.16\Aula05\Projeto.Domain\bin\Debug\Projeto.Entities.dll
+C:\Users\COTI\Desktop\___Aula_01.03.16\Aula05\Projeto.Domain\bin\Debug\Projeto.Entities.pdb
+C:\Users\COTI\Desktop\___Aula_01.03.16\Aula05\Projeto.Domain\obj\Debug\Projeto.Domain.csprojResolveAssemblyReference.cache
+C:\Users\COTI\Desktop\___Aula_01.03.16\Aula05\Projeto.Domain\obj\Debug\Projeto.Domain.dll
+C:\Users\COTI\Desktop\___Aula_01.03.16\Aula05\Projeto.Domain\obj\Debug\Projeto.Domain.pdb
+D:\Aula_06\Aula05\Projeto.Domain\bin\Debug\Projeto.Domain.dll
+D:\Aula_06\Aula05\Projeto.Domain\bin\Debug\Projeto.Domain.pdb
+D:\Aula_06\Aula05\Projeto.Domain\bin\Debug\Projeto.Entities.dll
+D:\Aula_06\Aula05\Projeto.Domain\bin\Debug\Projeto.Entities.pdb
+D:\Aula_06\Aula05\Projeto.Domain\obj\Debug\Projeto.Domain.csprojResolveAssemblyReference.cache
+D:\Aula_06\Aula05\Projeto.Domain\obj\Debug\Projeto.Domain.dll
+D:\Aula_06\Aula05\Projeto.Domain\obj\Debug\Projeto.Domain.pdb

@@ -1,0 +1,10 @@
+C:\Users\COTI\Desktop\___Aula_01.03.16\Aula05\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+C:\Users\COTI\Desktop\___Aula_01.03.16\Aula05\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+C:\Users\COTI\Desktop\___Aula_01.03.16\Aula05\Projeto.Entities\obj\Debug\Projeto.Entities.csprojResolveAssemblyReference.cache
+C:\Users\COTI\Desktop\___Aula_01.03.16\Aula05\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+C:\Users\COTI\Desktop\___Aula_01.03.16\Aula05\Projeto.Entities\obj\Debug\Projeto.Entities.pdb
+D:\Aula_06\Aula05\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+D:\Aula_06\Aula05\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+D:\Aula_06\Aula05\Projeto.Entities\obj\Debug\Projeto.Entities.csprojResolveAssemblyReference.cache
+D:\Aula_06\Aula05\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+D:\Aula_06\Aula05\Projeto.Entities\obj\Debug\Projeto.Entities.pdb
